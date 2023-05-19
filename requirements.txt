@@ -1,4 +1,4 @@
 numpy
 fastapi[all]
-uvicorn[standard]
+uvicorn
 gunicorn
